@@ -3,4 +3,4 @@
 ### Wingpresso from Dev Agrawal
 
 - [youtube](https://www.youtube.com/watch?v=lLiBUKcpSug&t=1169s)
-- [code]("wingpresso/wingpresso.w")
+- [code](./wingpress/wingpresso.w)
