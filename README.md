@@ -9,7 +9,7 @@
 
 ## Features
 
-### Multi-file Support with Elad and Chris
+### Multi-file Support
 
 - [Elad and Chris demo on youtube](https://www.youtube.com/watch?v=WAnM4ZUbLnE)
 - code [main](./features/multifile/main.w) [store](./features/multifile/store.w)
