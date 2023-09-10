@@ -17,6 +17,6 @@
 
 ### Javascript Support
 
-- Notes: javascript is imported with the 'extern' keyword into a wing class as a static method. none of the other configurations work.
+- Notes: javascript is imported with the 'extern' keyword into a wing class as a static method. instance methods are not supported preflight or inflight. and attempting to import a wing class into another wing file (eg as in the multifile support example above) with a javascript import won't work as the imported classes' static methods are not calleable. They are imported with the 'as' keyword signifying a namespace, which is used to create an instance of the imported class. Instance methods are not supported with js interop.
 - [code](./features/javascript/javascript.w)
   ![wing_javascript_support](./features/javascript/wing_javascript_support.png)
