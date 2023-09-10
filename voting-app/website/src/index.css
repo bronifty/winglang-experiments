@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title {
+  font-family: 'Nanum Pen Script', cursive;
+}
+
+body {
+  margin: 0;
+  font-family: 'Gamja Flower', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
