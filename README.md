@@ -2,4 +2,5 @@
 
 ### Wingpresso from Dev Agrawal
 
-- [Wingpresso]("./wingpresso/wingpresso.w")
+- [youtube](https://www.youtube.com/watch?v=lLiBUKcpSug&t=1169s)
+- [code]("./wingpresso/wingpresso.w")
