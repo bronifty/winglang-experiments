@@ -11,6 +11,12 @@
 
 ### Multi-file Support
 
+- a module is a collection of interfaces, classes, structs, and enums which can be imported and instantiated similar to an npm package like react, a library.
+
+```wing
+bring "./store.w" as store
+```
+
 - [Elad and Chris demo on youtube](https://www.youtube.com/watch?v=WAnM4ZUbLnE)
 - code [main](./features/multifile/main.w) [store](./features/multifile/store.w)
   ![wing_multifile_support](./features/multifile/wing_multi_file_support.png)
