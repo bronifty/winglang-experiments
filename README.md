@@ -12,3 +12,10 @@
 - [youtube](https://www.youtube.com/watch?v=WAnM4ZUbLnE)
 - code [main](./features/multifile/main.w) [store](./features/multifile/store.w)
   ![wing_multifile_support](./features/multifile/wing_multi_file_support.png)
+
+## Features
+
+### Javascript Support
+
+- [code](./features/javascript/javascript.w)
+  ![wing_javascript_support](./features/javascript/wing_javascript_support.png)
