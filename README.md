@@ -17,6 +17,6 @@
 
 ### Javascript Support
 
-- Notes: I was unable to both 'extern' (import) javascript into wing and 'bring' (import) wing into wing. But the javascript interop via import works with a static function of a class.
+- Notes: javascript is imported with the 'extern' keyword into a wing class as a static method. none of the other configurations work.
 - [code](./features/javascript/javascript.w)
   ![wing_javascript_support](./features/javascript/wing_javascript_support.png)
