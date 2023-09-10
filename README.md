@@ -10,7 +10,5 @@
 ### Winglang Update: Multi-file Support with Elad and Chris
 
 - [youtube](https://www.youtube.com/watch?v=WAnM4ZUbLnE)
-- code
-  - [main](./features/multifile/main.w)
-  - [store](./features/multifile/store.w)
-    ![wing_multifile_support](./features/multifile/wing_multi_file_support.png)
+- code [main](./features/multifile/main.w) [store](./features/multifile/store.w)
+  ![wing_multifile_support](./features/multifile/wing_multi_file_support.png)
